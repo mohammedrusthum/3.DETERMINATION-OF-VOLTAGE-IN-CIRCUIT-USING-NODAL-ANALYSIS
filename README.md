@@ -20,6 +20,18 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 **Circuit diagram**
 
+https://drive.google.com/file/d/1DPeIBbI4niBbOo3rYRuqH0ZOIKtSYh7V/view?usp=sharing
+
+
+**Tabulation/Calculation**
+
+https://drive.google.com/file/d/1VO5UIE0W_KfFK77fdZIGr19hZksXflwn/view?usp=sharing
+
+
+**Mark SplitUp**
+
+https://drive.google.com/file/d/17RBmUvBBFJwJSxz3uxYciHOaFSDt-O4-/view?usp=sharing
+
 
  
 **PROCEDURE:**
